@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Radio Button and Gradient</string>
+
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="others">Others</string>
+    <string name="submit">Submit</string>
+</resources>
